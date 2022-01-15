@@ -1,24 +1,12 @@
-# pokemon-game
+# Pokemon Game 
 
-## Project setup
-```
-npm install
-```
+Adivina que pokemon se encuentra detras de la sombra 
 
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
+## Tecnologias
+- Vue.Js
+- CSS
+- HTML
+- AXIOS
+## Link 
 
-### Compiles and minifies for production
-```
-npm run build
-```
-
-### Run your unit tests
-```
-npm run test:unit
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+https://game-vue-pokemon.netlify.app/
